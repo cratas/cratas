@@ -3,7 +3,7 @@
 <h1> :book:About me </h1>
 
 <li>🎓 I’m Computer Science student at VŠB - Technical University of Ostrava</li>
-<li>:hourglass_flowing_sand: I’m currently learning Android development and React.js</li>
+<li>:hourglass_flowing_sand: I’m currently learning React.js & Node.js with UI/UX design</li>
 <li>📫 How to reach me: petr.kratochvil.st1@vsb.cz</li>
 
 <h1>:round_pushpin: What I'am currently working on</h1>
