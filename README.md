@@ -6,7 +6,7 @@
 <li>:hourglass_flowing_sand: I’m currently learning Android development and React.js</li>
 <li>📫 How to reach me: petr.kratochvil.st1@vsb.cz</li>
 
-<h1>:hourglass_flowing_sand: What I'am currently working on</h1>
+<h1>:round_pushpin: What I'am currently working on</h1>
 <li>Writing the theoretical part of bachelor's thesis</li>
 <h3>:books: Courses</h3>
 <li>The Complete 2022 Web Development Bootcamp</li>
