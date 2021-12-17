@@ -4,7 +4,7 @@
 <p>My name is Petr Kratochvíl. I'am Computer Science student from Czech Republic with a passion for web and mobile development.</p>
 
 <h1>:round_pushpin: What I'am currently working on</h1>
-<li>Bbachelor's thesis - Web Interface for Visualization of Home Automation for Raspberry Pi</li>
+<li>Bachelor's thesis - Web Interface for Visualization of Home Automation for Raspberry Pi</li>
 <li>Learning React.js & Node.js</li>
 <h3>:books: Courses</h3>
 <li>The Complete 2022 Web Development Bootcamp</li>
