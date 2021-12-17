@@ -1,13 +1,11 @@
-<img src="https://user-images.githubusercontent.com/56606404/141841302-b9fa738f-9d1d-4310-98e3-72ed01c80be4.png">
+<img src="https://user-images.githubusercontent.com/56606404/146551359-e0a3029d-f098-4133-930f-d7f20c385268.png">
 
-<h1> :book:About me </h1>
-
-<li>🎓 I’m Computer Science student at VŠB - Technical University of Ostrava</li>
-<li>:hourglass_flowing_sand: I’m currently learning React.js & Node.js with UI/UX design</li>
-<li>📫 How to reach me: petr.kratochvil.st1@vsb.cz</li>
+<h1> Hi Everyone! :wave: </h1>
+<p>My name is Petr Kratochvíl. I'am I’m Computer Science student from Czech Republic with a passion for web and mobile development.</p>
 
 <h1>:round_pushpin: What I'am currently working on</h1>
 <li>Writing the theoretical part of bachelor's thesis</li>
+<li>Learning React.js & Node.js</li>
 <h3>:books: Courses</h3>
 <li>The Complete 2022 Web Development Bootcamp</li>
 <li>React - The Complete Guide (incl Hooks, React Router, Redux)</li>
