@@ -14,7 +14,7 @@
 <h3>🎯 In the near future, I plan to</h3>
 <li>Complete a bachelor's degree</li>
 <li>Learn Front-end web development with React.js</li>
-<li>Get a part-time job as a Junior React Developer</li>
+<li>Get a job as a Junior React Developer</li>
 <h3>🤞 One day I hope to</h3>
 <li>Became fullstack developer</li>
 <li>Learn iOS app development</li>
