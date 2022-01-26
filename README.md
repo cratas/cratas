@@ -17,7 +17,7 @@
 <li>Get a job as a Junior React Developer</li>
 <h3>🤞 One day I hope to</h3>
 <li>Became fullstack developer</li>
-<li>Learn iOS app development</li>
+<li>Learn iOS development</li>
 
 <h1>:bar_chart: GitHub Stats</h1>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cratas&show_icons=true&locale=en" alt="cratas" /></p>
