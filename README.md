@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/56606404/151546496-991b09b0-b078-47f2-bc2e-11983728de02.png">
+<img src="https://user-images.githubusercontent.com/56606404/151546815-9919bae9-a741-4b3a-9b34-01a8a4061206.png">
 
 <h1> Hi Everyone! :wave: </h1>
 <p>My name is Petr Kratochvíl. I'am Computer Science student from Czech Republic with a passion for web and mobile development.</p>
