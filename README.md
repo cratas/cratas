@@ -6,6 +6,7 @@
 <h1>:round_pushpin: What I'am currently working on</h1>
 <li>Bachelor's thesis - Web Interface for Visualization of Home Automation for Raspberry Pi</li>
 <li>Learning React</li>
+<li>Working on Personal portfolio website</li>
 <h3>:books: Courses</h3>
 <li>The Complete 2022 Web Development Bootcamp</li>
 <li>React - The Complete Guide (incl Hooks, React Router, Redux)</li>
