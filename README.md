@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/56606404/151547457-38ed6f67-cf61-4482-9f9c-0ba35b473556.png">
+<img src="https://user-images.githubusercontent.com/56606404/158480471-6f317760-a229-485e-be0b-95e5047355aa.png">
 
 <h1> Hi Everyone! :wave: </h1>
 <p>My name is Petr Kratochvíl, Czech Republic based Software Developer currently focusing on React. I'm also third-year Computer Science student at VSB-Technical University of Ostrava. I like things creative, organized and simple. 
