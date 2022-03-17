@@ -3,13 +3,7 @@
 <h1> Hi Everyone! :wave: </h1>
 <p>My name is Petr Kratochvíl, Czech Republic based Software Developer currently focusing on React. I'm also third-year Computer Science student at VSB-Technical University of Ostrava. I like things creative, organized and simple. 
 </p>
----
 
-🧰 Toolbox
-
-<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
-
----
 
 <h1>:round_pushpin: What I'm currently working on</h1>
 <li>Bachelor's thesis - Web Interface for Visualization of Home Automation for Raspberry Pi</li>
