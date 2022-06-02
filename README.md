@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/56606404/158480723-7aefc4af-dfc3-459c-b3fb-401979397b0c.png">
 
 <h1> Hi Everyone! :wave: </h1>
-<p>My name is Petr Kratochvíl, Czech Republic based Software Developer currently focusing on React. I'm also third-year Computer Science student at VSB-Technical University of Ostrava. I like things creative, organized and simple. 
+<p>My name is Petr Kratochvíl, Czech Republic based Software Developer currently focusing on React. I'm also Computer Science student at VSB-Technical University of Ostrava. I like things creative, organized and simple. 
 </p>
 
 
@@ -14,8 +14,8 @@
 <li>Complete Web Design: from Figma to Webflow to Freelancing</li>
 <h1>:hourglass_flowing_sand: What I'm up to </h1>
 <h3>🎯 In the near future, I plan to</h3>
-<li>Complete a bachelor's degree</li>
-<li>Get a job as a Junior React Developer</li>
+<li>Keep learning new technologies and skills</li>
+<li>Get a job as a React Developer</li>
 <h3>🤞 One day I hope to</h3>
 <li>Became fullstack developer</li>
 
