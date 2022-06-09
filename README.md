@@ -6,7 +6,7 @@
 
 
 <h1>:round_pushpin: What I'm currently working on</h1>
-<li>Agriculture website</li>
+<li>Reddit clone (React, Node, GraphQL, Express, Next)</li>
 <li>Learning React.js, Node.js (TypeScript)</li>
 <h3>:books: Courses</h3>
 <li>The Complete 2022 Web Development Bootcamp</li>
