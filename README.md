@@ -15,7 +15,6 @@
 <h1>:hourglass_flowing_sand: What I'm up to </h1>
 <h3>🎯 In the near future, I plan to</h3>
 <li>Keep learning new technologies and skills</li>
-<li>Get a job as a React Developer</li>
 <h3>🤞 One day I hope to</h3>
 <li>Became fullstack developer</li>
 
