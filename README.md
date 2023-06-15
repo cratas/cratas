@@ -9,5 +9,4 @@
 <li>Keep working on interesting projects with potential</li>
 
 <h1>:bar_chart: GitHub Stats</h1>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cratas&show_icons=true&locale=en" alt="cratas" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cratas&" alt="cratas" /></p>
