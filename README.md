@@ -1,7 +1,7 @@
 <img src="https://github.com/cratas/cratas/assets/56606404/c218fb50-6d9f-4d39-be99-1a4261f72c4a">
 
 <h1> Hi Everyone! :wave: </h1>
-<p>My name is Petr Kratochvíl, Czech Republic based Software Developer. I'm also final year Computer Science student at VSB-Technical University of Ostrava. I like things creative, organized and simple. 
+<p>My name is Petr Kratochvíl, Czech Republic based Software Developer. I like things creative, organized and simple. 
 </p>
 
 <h1>:hourglass_flowing_sand: What I'm up to </h1>
